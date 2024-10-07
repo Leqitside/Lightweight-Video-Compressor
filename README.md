@@ -10,6 +10,10 @@ This is a simple drag-and-drop video processing tool built using Python and `Tki
 - **Delete Original File**: Option to delete the original video after successful processing.
 - **Retry Mechanism**: The tool attempts multiple compressions to achieve the desired target size.
 
+## Showcase
+
+![Video Processing Tool Showcase](media/showcase.gif)
+
 ## Requirements
 
 Ensure you have Python 3.x installed along with the following Python libraries:
